@@ -14,9 +14,19 @@ A lightweight GPT chat website with only 1 file. Set a few parameters, enter you
 2. Not all markdown strings may be fully rendered.
 
 ## Preview
+
+**Screenshot when the html file is open**
+
 ![Screenshot when the html file is open](./load.png)
+
+**Screenshot after the OpenAI API key is entered**
+
 ![Screenshot after the OpenAI API key is entered](./loaded.png)
+
+**Screenshot of a chat**
+
 ![Screenshot of a chat](./chat.png)
+
 
 ## Conclusion
 That's it! Quite simple without fancy functionalities.
